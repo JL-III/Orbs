@@ -1,0 +1,4 @@
+name: Orbs
+version: '${project.version}'
+main: com.playtheatria.orbs.Orbs
+api-version: '1.20'
