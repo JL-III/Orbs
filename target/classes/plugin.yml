@@ -1,4 +1,0 @@
-name: Orbs
-version: '1.0-SNAPSHOT'
-main: com.playtheatria.orbs.Orbs
-api-version: '1.20'
